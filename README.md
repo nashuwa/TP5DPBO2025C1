@@ -1,4 +1,16 @@
 # TP5DPBO2025C1
+
+## Janji
+Saya Nashwa Nadria Futi dengan NIM 2308130 mengerjakan soal Tes Praktikum 5 dalam mata kuliah Desain Pemrograman Berbasis Objek untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin.
+
+## Desain
+1. Class Mahasiswa
+   Class mahasiswa memiliki 4 atribut yaitu NIM, Nama, Jenis Kelamin, dan Status. Atribut baru yang ditambahkan adalah atribut Status yang menyatakan status kemahasiswaan suatu mahasiswa, seperti aktif, cuti, atau dropout. Class ini berisi inisialisasi atribut, constructor Mahasiswa dengan parameter, dan getter setter seluruh atribut.
+   
+2. Menu form
+   ![Screenshot 2025-03-16 202550](https://github.com/user-attachments/assets/8dc12585-e8dd-47f6-bd98-38d77088552b)
+   Menambahkan statusLabel, jRadioButton aktifRadio, jRadioButton cutiRadio, dan jRadioButton dropOutRadio.
+
 ## Spesifikasi Tugas:
 1. Hubungkan semua proses CRUD dengan database.
 2. Tampilkan dialog/prompt error jika masih ada input yang kosong saat insert/update.
